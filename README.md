@@ -56,17 +56,6 @@
 
 ---
 
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Adil' GitHub stats](https://github-readme-stats.vercel.app/api?username=Adda1321&show_icons=true&theme=gruvbox)
-
----
-
 - ⚡ Fun fact **I’m an active investor in Pakistan’s top 30 companies.**
   
 <h3 align="left">Connect with me:</h3>
