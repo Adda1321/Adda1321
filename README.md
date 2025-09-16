@@ -6,6 +6,20 @@
 
 - 🔭 I’m currently working on [Minute Master](https://app.minute-master.com/login) — A private project that manages the complete lifecycle of meetings: from scheduling, planning, and agenda amendments, to adding participants, generating AI-powered meeting notes, and even finalizing with digital signatures. (Its on a private repository)
 
+
+## 🚀 About Me
+- I’m a Full-Stack Developer passionate about building scalable web and mobile apps with React, Next.js, Node.js, Prisma, and TypeScript.
+- I love solving complex product challenges — from nested reordering algorithms to automated schedulers and email flows.
+- I have published 2 React Native apps on both the App Store and Play Store, and contributed key features to 15+ live projects, delivering complex functionality that continues to make an impact and enhance those products.
+
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+![My Skills](https://skillicons.dev/icons?i=aws,docker,git,react,nextjs,vue,graphql,ruby,tailwind,materialui,typescript,prisma,nodejs,mongodb,postgres,&theme=light)
+
+<!-- **Also comfortable with**: React Naitve CLI and Expo, Published 3 apps on Play Store and App Store, CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows. -->
+
+
 ---
 
 ## Projects - showcase
@@ -57,13 +71,14 @@
 ---
 
 - ⚡ Fun fact **I’m an active investor in Pakistan’s top 30 companies.**
-  
+- 📫 How to reach me **adilmustafa13@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adil-mustafa1325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil-mustafa1325" height="30" width="40" /></a>
 <a href="https://instagram.com/its_adil_mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_adil_mustafa" height="30" width="40" /></a>
-<a href="mailto:adilmustafa13@gmail.com" target="_blank">
+<!-- <a href="mailto:adilmustafa13@gmail.com" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" height="30" width="40" />
-</a>
+</a> -->
 </p>
 
