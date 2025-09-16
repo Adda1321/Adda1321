@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Mustafa</h1>
-<h3 align="center">A passionate FullStack Senior Software Engineer from Lahore,Pakistan</h3>
+<h3 align="center">A passionate FullStack Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adda1321&label=Profile%20views&color=0e75b6&style=flat" alt="adda1321" /> </p>
 
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Minute Master](https://app.minute-master.com/login) — A private project that manages the complete lifecycle of meetings: from scheduling, planning, and agenda amendments, to adding participants, generating AI-powered meeting notes, and even finalizing with digital signatures. (Its on a private repository)
 
 
-## 🚀 About Me
+## About Me
 - I’m a Full-Stack Developer passionate about building scalable web and mobile apps with React, Next.js, Node.js, Prisma, and TypeScript.
 - I love solving complex product challenges — from nested reordering algorithms to automated schedulers and email flows.
 - I have published 2 React Native apps on both the App Store and Play Store, and contributed key features to 15+ live projects, delivering complex functionality that continues to make an impact and enhance those products.
