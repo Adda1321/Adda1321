@@ -27,30 +27,30 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+      <a href="https://github.com/Adda1321/Knotty-Roulette">
         <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
+             alt="Knotty Times Roulette"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <b>⚡ Knotty Times Roulette</b><br/>
+      <sub>Built a cross-platform React Native app with Expo, integrating non-consumable in-app purchases, AdMob ads, and a WordPress backend for dynamic game content and player interactions.</sub><br/>
+      🔗 <a href="https://github.com/Adda1321/Knotty-Roulette">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub> Tags: React Native · Expo · Inapp purchase · AdMob </sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+      <a href="https://github.com/Adda1321/next-ts-starter-kit/branches">
         <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
              alt="CI/CD Pipeline Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      <b>📦 Fullstack Playground </b><br/>
+      <sub>A production-ready fullstack starter template with Next.js, TypeScript, Prisma, GraphQL, Tailwind, MUI, Zustand, Docker, WebSockets & Webhooks — everything you need to build and learn modern fullstack apps.</sub><br/>
       🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
       <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+      <sub>Tags: next.js · Fullstack · Boilerplate · Playground  </sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
@@ -59,11 +59,12 @@
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      <b>📧 Project EmailEngine</b><br/>
+      <sub>Email integration platform powered by Hasura, GraphQL, Node.js, Vue 2, TypeScript, and Auth0.
+It connects with Outlook via Microsoft Graph API, syncing emails and events in real-time while handling authentication, subscriptions, and database updates.</sub><br/>
       🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
       <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
+      <sub>Tags: nodejs · docker · ms-graph · email-integration</sub>
     </td>
   </tr>
 </table>
