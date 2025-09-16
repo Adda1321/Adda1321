@@ -70,15 +70,10 @@
 
 ---
 
-- ⚡ Fun fact **I’m an active investor in Pakistan’s top 30 companies.**
-- 📫 How to reach me **adilmustafa13@gmail.com**
+⚡ Fun fact **I’m an active investor in Pakistan’s top 30 companies.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adil-mustafa1325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil-mustafa1325" height="30" width="40" /></a>
-<a href="https://instagram.com/its_adil_mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_adil_mustafa" height="30" width="40" /></a>
-<!-- <a href="mailto:adilmustafa13@gmail.com" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" height="30" width="40" />
-</a> -->
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adil-mustafa1325/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adilmustafa13@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/its_adil_mustafa/)
