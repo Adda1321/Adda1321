@@ -28,7 +28,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Adda1321/Knotty-Roulette">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+        <img src="knotty-times-app-icon (1).jpeg"
              alt="Knotty Times Roulette"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
